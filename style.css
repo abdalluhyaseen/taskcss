@@ -1,0 +1,281 @@
+/* task1 */
+.brown{
+    color:blueviolet;
+}
+.red{
+    color:red
+}
+.blue{
+    color: rgb(0, 0, 255);
+}
+.green{
+    color: #00ff00;
+}
+
+/* task2 */
+/* ################################################################### */
+
+.px{
+    font-size: 18px;
+}
+.dx{
+    font-size: 30px;
+color: gray;
+}
+.xd{
+color: navy;
+font-size: 1.5em;
+font-family: 'Franklin Gothic Medium'
+}
+.purple{
+color: purple;
+font-size: 25px;
+font-style: italic;
+font-family: cursive;
+
+}
+
+
+/* task3 */
+/* ################################################################### */
+
+#العنوان{
+
+    text-align: center;
+    text-decoration:  underline
+
+}
+.الخط{
+    text-decoration: overline;
+}
+.شطب{
+
+    text-decoration: line-through;
+}
+/* task4*/
+/* ################################################################### */
+
+#العنوان-التاني{
+
+color: red;
+text-decoration: underline;
+
+}
+
+
+.تغميق{
+
+text-decoration:line-through;
+
+font-weight: bold;
+
+}
+
+
+.العنوان-الاول{
+
+text-align: center;
+color: white;
+background-color: rgb(12, 35, 79);
+}
+.cccc{
+    text-align: center;
+    background-color: rgb(12, 34, 79);
+    color: white;
+}
+
+.redd{
+
+color: red;
+text-transform: uppercase
+
+}
+/* ################################################################### */
+
+/* task5 */
+.centar{
+
+text-align: center;
+
+}
+.line{
+
+color: red;
+
+text-decoration: underline;
+}
+.im{
+    position: absolute;
+    color: red;
+    background-color: yellow;
+}
+/* task6 */
+
+
+.back{
+    position: absolute;
+
+}
+/* ################################################################### */
+
+
+/* task7 */
+
+.t7c1{
+    color: red;
+text-decoration: underline;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: bold;
+font-family: Verdana, Tahoma, sans-serif;
+}
+
+.t7c2{
+color: green;
+text-decoration: underline;
+
+}
+/* ################################################################### */
+
+
+/* task8 */
+
+.mid{
+    background: linear-gradient(to right, #49042a, #7e3e02);
+color: white;
+
+
+}
+
+
+
+
+
+/* ################################################################### */
+
+/* task9 */
+
+.look{
+  
+    background: linear-gradient(to right, #a86aa4  , #cc6b8e , #f3a469   , #f7c978 );
+text-align: center;
+padding: 100px;
+height: 50px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: xx-large;
+
+font-weight: bold;
+
+} 
+
+/* ################################################################### */
+
+
+/* task10 */
+.bluo{
+    background: blue;
+    padding: 10px;
+}
+
+.pink{
+    padding: 10px;
+    background: pink;
+}
+
+.orange{
+    padding: 10px;
+    background: orange;
+
+}
+
+
+/* ################################################################### */
+/* task11 */
+
+.table{ 
+background:#f7c978;
+
+
+
+}
+.wi{ 
+    background-color: yellow;
+
+    width: 100%;
+}
+
+.color{
+    background-color:brown;
+}
+
+
+/* ################################################################### */
+
+/* task12 */
+.blue2{
+background-color: aqua;
+
+}
+table{
+    text-align: center;
+}
+
+#address{
+
+height: 50px;
+
+}
+.full{
+    color: red;
+    background-color: yellow;
+}
+/* ################################################################### */
+/* task13 */
+
+img.ard{
+    position: absolute;
+width: 100%;
+height: 150px;
+}
+
+img.tol{
+
+width: 250px;
+height: 650px;
+
+}
+
+
+
+div.no{
+    position: absolute;
+    
+
+}
+
+/* ################################################################### */
+
+/* task14 */
+
+.اخضر-فاتح{
+    background-color:aqua;
+}
+.احمر{
+    background-color: red;
+}
+
+.نهدي{
+    background-color: blueviolet;
+}
+
+
+.ooo{
+    color: red;
+}
+ body#help{
+    background-color: #cfb07b;
+ }
+
+
+
+
+
